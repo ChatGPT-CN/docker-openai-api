@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/openapi-net:1.0.1
